@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">bitPanda Test</string>
+    <string name="loading_projects">Loading Informations...</string>
+    <string name="projects_list">Project list</string>
+    <string name="project_name">Name of the project</string>
+    <string name="google_github_projects">GitHub Rest API v3</string>
+    <string name="project_list">Project List</string>
+    <string name="languages">Languages: %s</string>
+    <string name="watchers">Watchers: %s</string>
+    <string name="openIssues">Open Issues: %s</string>
+    <string name="created_at">Created At: %s</string>
+    <string name="updated_at">Updated At: %s</string>
+    <string name="clone_url">Clone URL: %s</string>
+    <string name="project_language">Project Language</string>
+    <string name="project_watchers">Project Watchers</string>
+    <string name="project_description">Project Description</string>
+    <string name="open_issues">Open Issues</string>
+    <string name="loading_project">Loading Informations...</string>
+    <string name="contributors_list">Contributors</string>
+    <string name="repo_details">Repository Details - %s</string>
+    <string name="are_you_sure_want_to_exit">Are you sure want to exit?</string>
+    <string name="message_title">Information</string>
+    <string name="exit">Exit</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+
+
+    <integer name="anim_duration_medium">300</integer>
+    <integer name="anim_duration_long">400</integer>
+
+</resources>
